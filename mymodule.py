@@ -1,4 +1,6 @@
 import matplotlib as plt
+import numpy as np
+import pandas as pd
 
 def draw_histograms(df):
     num_columns = df.columns
