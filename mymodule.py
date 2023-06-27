@@ -2,6 +2,9 @@ import matplotlib as plt
 import numpy as np
 import pandas as pd
 
+def greet():
+    return
+    
 def draw_histograms(df):
     num_columns = df.columns
     num_cols_count = len(num_columns)
