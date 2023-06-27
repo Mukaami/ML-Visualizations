@@ -24,3 +24,4 @@ def draw_histograms(df):
         ax.set_ylabel('Frequency')
         
     plt.show()
+    return
